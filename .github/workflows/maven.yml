@@ -103,3 +103,5 @@ jobs:
         uses: malinthaprasan/action-surefire-report@v1
         with:
           report_paths: 'reports/**/TEST-*.xml'
+
+
